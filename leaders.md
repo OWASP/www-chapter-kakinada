@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [S M Krishna Reddy Padala](mailto:krishna.padala@owasp.org)
+* [Vineetha Gudimetla](mailto:vineetha.gudimetla@owasp.org)
