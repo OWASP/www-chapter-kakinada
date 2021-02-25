@@ -7,7 +7,7 @@ region: Asia
 
 ---
 ## Welcome
-Thank you for your interest in the Kakinada OWASP chapter. Please consider joining us at our next Meetup(https://www.meetup.com/owasp-kakinada/) event so we can get to know you better.
+Thank you for your interest in the Kakinada OWASP chapter. Please consider joining us at our next [Meetup](https://www.meetup.com/owasp-kakinada/) event so we can get to know you better.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
